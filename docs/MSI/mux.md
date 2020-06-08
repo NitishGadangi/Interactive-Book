@@ -13,10 +13,10 @@ nav_order: 1
 
 ## Introduction
 
-Multiplexer is a special type of combinational circuit. 
+A multiplexer is a special type of combinational circuit. 
 There are n-data inputs, one output and m select inputs with 2<sup>m</sup> = n. 
-It is a digital circuit which selects one of the n data inputs and routes it to the output. 
-The selection of one of the n inputs is done by the selected inputs. Depending on the digital code applied at the selected inputs, one out of n data sources is selected and transmitted to the single output Y. 
+It is a digital circuit that selects one of the n data inputs and routes it to the output. 
+The selection of one of the n inputs is made by the selected inputs. Depending on the digital code applied at the selected inputs, one out of n data sources is selected and transmitted to the single output Y. 
 E is called the strobe or enable input which is useful for the cascading. It is generally an active low terminal that means it will perform the required operation when it is low.
 
 
